@@ -13,17 +13,20 @@ This repository contains various projects related to data visualization, file ma
 
 You can navigate to the main repository and individual projects using the links below:
 
-| Repository Name | Description                             | Link                                                                                |
-| --------------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
-| Main Repo       | Main repository containing all projects | [Main Repo](https://github.com/KumkumMalhotra/590016176)                            |
-| Project 01      | Data Visualization Project in Python    | [Project 01](https://github.com/KumkumMalhotra/Python01-Data-Visualization-Project) |
-| Project 02      | CSV to Excel Converter using Python     | [Project 02](https://github.com/KumkumMalhotra/Python02-CSV-to-EXCEL)               |
-| Project 03      | URL Downloader application in Python    | [Project 03](https://github.com/KumkumMalhotra/Python03_url_downloader)             |
-| Project 04      | Quiz Application built with Python      | [Project 04](https://github.com/KumkumMalhotra/Python04-Quiz_Application)           |
+| Repository Name | Description                             | Link                                                 |
+| --------------- | --------------------------------------- | ---------------------------------------------------- |
+| Main Repo       | Main repository containing all projects | [Main Repo](https://github.com/legendArther/pyclass) |
+
+| Project 01 | Image Generator in Python using flux-schnell | [Project 01](https://github.com/legendArther/py1fluxGui) |
+| Project 02 | Crypto trading bot based on trading view signals | [Project 02](https://github.com/legendArther/KuCoinApiFlask) |
+| Project 03 | Image Upscaling App with Replicate API and Tkinter | [Project 03](https://github.com/legendArther/pyImageRestore) |
+| Project 04 | llm and python gui | [Project 04](https://github.com/legendArther/pyLama) |
 
 ## Packages Used
 
-- Pandas
+- Replicate
 - Matplotlib
+- Kucoin
+- TradingView
 - Tkinter (for GUI applications)
 - Requests (for URL handling)
