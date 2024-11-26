@@ -16,7 +16,6 @@ You can navigate to the main repository and individual projects using the links 
 | Repository Name | Description                             | Link                                                 |
 | --------------- | --------------------------------------- | ---------------------------------------------------- |
 | Main Repo       | Main repository containing all projects | [Main Repo](https://github.com/legendArther/pyclass) |
-
 | Project 01 | Image Generator in Python using flux-schnell | [Project 01](https://github.com/legendArther/py1fluxGui) |
 | Project 02 | Crypto trading bot based on trading view signals | [Project 02](https://github.com/legendArther/KuCoinApiFlask) |
 | Project 03 | Image Upscaling App with Replicate API and Tkinter | [Project 03](https://github.com/legendArther/pyImageRestore) |
